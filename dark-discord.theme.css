@@ -3,13 +3,13 @@
  * @version 0.1.1
  * @description Actual dark theme for BetterDiscord
  * @source https://github.com/Shuzhengz/dark-discord
- * @updateUrl https://raw.githubusercontent.com/Shuzhengz/dark-discord/main/dark-discord.css
+ * @updateUrl https://raw.githubusercontent.com/Shuzhengz/dark-discord/main/dark-discord.scss
  * @author
 */
 
-@import url("https://raw.githubusercontent.com/Shuzhengz/dark-discord/main/dark-discord.css");
+@import url("https://raw.githubusercontent.com/Shuzhengz/dark-discord/main/dark-discord.scss");
 :root {
-    --Settings-Theme-Version: "ActualDarkDiscord 0.1.1";
+    --Settings-Theme-Version: "DarkDiscord 0.1.1";
 }
 
 :root {
