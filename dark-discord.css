@@ -14,6 +14,10 @@
 */
 
 :root {
+	--Settings-Theme-Version: "ActualDarkDiscord 1.0.0";
+}
+
+:root {
     --background-dark-primary: #141414 !important;		
     --background-dark-secondary: #111111 !important;		
     --background-dark-tertiary: #0c0c0c !important;	
