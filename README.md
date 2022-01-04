@@ -22,3 +22,10 @@ An actual dark theme for Discord
 - Copy the content in `dark-discord.scss` ([here](https://raw.githubusercontent.com/Shuzhengz/dark-discord/main/dark-discord.scss))
 - Paste in the textbox
 - Click on the save button, then the update button to apply
+
+
+## Customize
+
+You can customize this theme by changing the color hex codes in the file
+
+(Be careful, there's a ot of them)
