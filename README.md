@@ -18,6 +18,10 @@ An actual dark theme for Discord
 
 ### Install as a custom CSS
 
+The custom CSS option can be useful if your install of betterdiscord is bugged or not supported fully
+
+To use this option,
+
 - Go to the `Custom CSS` tab in Discord's settings
 - Copy the content in `dark-discord.scss` ([here](https://raw.githubusercontent.com/Shuzhengz/dark-discord/main/dark-discord.scss))
 - Paste in the textbox
