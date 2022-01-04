@@ -28,4 +28,4 @@ An actual dark theme for Discord
 
 You can customize this theme by changing the color hex codes in the file
 
-(Be careful, there's a ot of them)
+(Be careful, there's a lot of them)
