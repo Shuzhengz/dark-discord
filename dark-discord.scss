@@ -3,18 +3,32 @@
 }
 
 :root {
-    --background-dark-primary: #141414 !important;
-    --background-dark-secondary: #111111 !important;
-    --background-dark-tertiary: #0c0c0c !important;
     --background-primary: #141414 !important;
     --background-secondary: #111111 !important;
     --background-tertiary: #0c0c0c !important;
     --background-floating: black !important;
+    --background-dark-primary: #141414 !important;
+    --background-dark-secondary: #111111 !important;
+    --background-dark-tertiary: #0c0c0c !important;
     --background-modifier-hover: rgba(50, 50, 50, 0.16) !important;
     --background-modifier-active: rgba(50, 50, 50, 0.24) !important;
     --background-modifier-selected: rgba(50, 50, 50, 0.32) !important;
     --background-modifier-accent: hsla(0, 0%, 100%, 0.06) !important;
     --bd-blue: #7289da !important;
+}
+
+.guildsDiscover-oiBX_l {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    margin: 8px 0 0 0 !important;
+    background: #2f3136 !important;
+    border-radius: 25px;
+    transition: 250ms ease all;
+}
+
+.scroller-2FKFPG::-webkit-scrollbar-corner {
+    background-color: transparent !important;
 }
 
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb,
@@ -24,9 +38,6 @@
     border-color: transparent !important;
 }
 
-.scroller-2FKFPG::-webkit-scrollbar-corner {
-    background-color: transparent !important;
-}
 
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-track,
 .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-track,
@@ -114,16 +125,6 @@
 
 .searchBarIcon-1J6sKG .icon-3cZ1F_.iconSearchBarClear-2DW-Kr {
     background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiICB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgIDxwYXRoIGZpbGw9IiMzMzMzMzMiIGQ9Ik0xMiwyQzE3LjUzLDIgMjIsNi40NyAyMiwxMkMyMiwxNy41MyAxNy41MywyMiAxMiwyMkM2LjQ3LDIyIDIsMTcuNTMgMiwxMkMyLDYuNDcgNi40NywyIDEyLDJNMTUuNTksN0wxMiwxMC41OUw4LjQxLDdMNyw4LjQxTDEwLjU5LDEyTDcsMTUuNTlMOC40MSwxN0wxMiwxMy40MUwxNS41OSwxN0wxNywxNS41OUwxMy40MSwxMkwxNyw4LjQxTDE1LjU5LDdaIiAvPgo8L3N2Zz4=);
-}
-
-.guildsDiscover-oiBX_l {
-    position: relative;
-    width: 50px;
-    height: 50px;
-    margin: 8px 0 0 0 !important;
-    background: #2f3136 !important;
-    border-radius: 25px;
-    transition: 250ms ease all;
 }
 
 @keyframes server-hover {
