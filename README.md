@@ -14,7 +14,7 @@ An actual dark theme for Discord
 - Go to the `Themes` tab in Discord's settings (BetterDiscord section)
 - Click on the `Open Theme Folder` button
 - Drag `dark-discord.theme.css` into the folder
-- You can also use `dark-discord.theme.min.css`
+  - You can also use `dark-discord.theme.min.css`
 - Go back to the `Themes` tab in Discord's settings, enable the theme with the switch
 
 ### Install as a custom CSS
