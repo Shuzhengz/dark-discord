@@ -1,6 +1,8 @@
 # dark-discord
 An actual dark theme for Discord
 
+Great for those who thinks the normal discord dark mode is literally just light mode
+
 ## Requirements
 
 [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) is required to be installed
