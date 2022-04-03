@@ -9,6 +9,8 @@ Great for those who thinks the normal discord dark mode is literally just light 
 
 [Betterdiscordctl](https://github.com/bb010g/betterdiscordctl) might be a handy tool to install BetterDiscord on Linux
 
+Sometimes BetterDiscord can get disabled after a discord update, in that case just install it again, it should keep all the configs
+
 ## Install Instructions
 
 ### Install as a theme
