@@ -1,4 +1,4 @@
-# dark-discord
+# Dark Discord
 An actual dark theme for Discord
 
 Great for those who thinks the normal discord dark mode is literally just light mode
