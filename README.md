@@ -18,11 +18,11 @@ Grab the `exe` file from [here](https://github.com/BetterDiscord/Installer/relea
 Grab the `zip` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Mac.zip).
 
 - Linux
-Grab the `AppImage` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Linux.AppImage).
+Grab the `AppImage` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Linux.AppImage), or use [Betterdiscordctl](https://github.com/bb010g/betterdiscordctl).
 
 Sometimes BetterDiscord can get disabled after a discord update, in that case just install it again, it should keep all the configs
 
-## Install Instructions
+## Installation Instructions
 
 ### Install as a theme
 
