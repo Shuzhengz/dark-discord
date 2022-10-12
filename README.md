@@ -49,3 +49,7 @@ To use this option,
 You can customize this theme by changing the color hex codes in the file
 
 (Be careful, there's a lot of them)
+
+You can also customize any other component by opening discord in your browser, and see the components using the inspect tool.
+
+Simply copy the container (i.e. `.container-ZMc96U`) and then set the properties you want using standard CSS.
