@@ -42,6 +42,7 @@ To use this option,
 - Copy the content in `dark-discord.scss` ([here](https://raw.githubusercontent.com/Shuzhengz/dark-discord/main/dark-discord.scss))
 - Paste in the textbox
 - Click on the save button, then the update button to apply
+- Optionally check the "live update" checkbox to see the changes in real time
 
 
 ## Customize
