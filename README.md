@@ -32,12 +32,6 @@ Sometimes BetterDiscord can get disabled after a discord update, in that case ju
   - You can also use `dark-discord.theme.min.css`
 - Go back to the `Themes` tab in Discord's settings, enable the theme with the switch
 
-### Note
-
-Because of the nature of BetterDiscord, sometimes after Discord updates you have to install BetterDiscord again.
-
-Usually you do not need to reinstall the theme, but in some cases you do.
-
 ### Install as a custom CSS
 
 The custom CSS option can be useful if your install of betterdiscord is bugged or not supported fully
@@ -49,6 +43,12 @@ To use this option,
 - Paste in the textbox
 - Click on the save button, then the update button to apply
 - Optionally check the "live update" checkbox to see the changes in real time
+
+### Note
+
+Because of the nature of BetterDiscord, sometimes after Discord updates you have to install BetterDiscord again.
+
+Usually you do not need to reinstall the theme, but in some cases you do.
 
 
 ## Customize
