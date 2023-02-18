@@ -48,7 +48,8 @@ To use this option,
 
 Because of the nature of BetterDiscord, sometimes after Discord updates you have to install BetterDiscord again.
 
-Usually you do not need to reinstall the theme, but in some cases you do.
+Usually you do not need to reinstall the theme, but if the theme does not come back automatically after the update, simply install the theme again. 
+If it still doesn't work, please submit an issue in this repository.
 
 
 ## Customize
