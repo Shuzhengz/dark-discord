@@ -11,13 +11,13 @@ Great for those who thinks the normal discord dark mode is literally just light 
 
 ### BetterDiscord Installers
 
-- Windows
+- Windows:
 Grab the `exe` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
 
-- macOS/OS X
+- macOS/OS X:
 Grab the `zip` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Mac.zip).
 
-- Linux
+- Linux:
 Grab the `AppImage` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Linux.AppImage), or use [Betterdiscordctl](https://github.com/bb010g/betterdiscordctl).
 
 Sometimes BetterDiscord can get disabled after a discord update, in that case just install it again, it should keep all the configs
