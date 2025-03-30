@@ -1,7 +1,9 @@
 # Dark Discord
 An actual dark theme for Discord
 
-Great for those who thinks the normal discord dark mode is literally just light mode
+~~Great for those who thinks the normal discord dark mode is literally just light mode~~
+
+Archiving this since discord finally updated their theme to be actually dark
 
 ## Requirements
 
